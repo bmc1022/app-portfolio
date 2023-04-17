@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  max-width: 900px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -22,7 +22,7 @@ ul.screenshots {
   justify-content: center;
 }
 ul.screenshots li {
-  margin: 10px;
+  margin: 20px 0;
 }
 ul.screenshots img {
   max-width: 100%;
